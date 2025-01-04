@@ -1,0 +1,28 @@
+body {
+    background-color: #ffe692;
+}
+
+section#editor{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+}
+
+div#edit {
+    width: 600px;
+    height: 600px;
+    background-color: #fff3ce;
+    border: none;
+    border-radius: 25px;
+    padding: 25px;
+   }
+
+ul {
+    display: inline-block;
+    list-style: none;
+}
+
+img#mypic {
+        width: 500px;
+}
